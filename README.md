@@ -1,2 +1,3 @@
-# blockchain-based-ledger
-GW FinTech Challenge #18
+# Blockchain-based Ledger PyChain
+
+
